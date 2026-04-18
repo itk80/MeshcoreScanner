@@ -23,4 +23,4 @@ request features.
 
 ## Contact
 
-Email: itkeny@gmail.com
+Email: it.ken.y@gmail.com
